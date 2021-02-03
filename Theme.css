@@ -1,0 +1,31 @@
+@import url("https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css");
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+@import url('https://gibbu.github.io/BetterDiscord-Themes/HorizontalServerlist/base.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+:root {
+--background-image: url('https://raw.githubusercontent.com/Alliline/TouhouMinecraft/master/neon_ring.jpg');
+--friends-icon: url('https://cdn1.worldpng.ru/uploads/2020/11/18/feb80a4471a8e4813b02a1afea9f5a12-full.png');
+--friends-icon-position: center center;
+--friends-icon-zoom: 100%;
+--unread-server-animation: rainbow;
+--main-color: #5400d1;
+--main-transparency: rgba(0,0,0,0.55);
+--hover-list-bg-color: #5900ff;
+--scroll-bar-color: rgba(137,1,228,0.25);
+--font-size: 16px;
+--selected-text-voice-color: #5102e3;
+--channel-hover-text-color: rgba(115,0,255,0.65);
+--unread-text-color: #9f00f5;
+--user-popup-background: rgba(49,0,163,0.3);--rs-small-spacing: 2px;
+--rs-large-spacing: 3px;
+--rs-width: 2px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-streaming-color: #643da7;
+--rs-offline-color: #636b75;
+--rs-invisible-color: #747f8d;--HSL-server-icon-size: 40px;
+--HSL-server-spacing: 14px;
+}
